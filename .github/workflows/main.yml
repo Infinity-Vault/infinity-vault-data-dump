@@ -8,12 +8,12 @@ on:
 
 jobs:
   run-ghrs-with-matrix:
-    name: repostats-for-nice-projects
+    name: Aggregate traffic
     runs-on: ubuntu-latest
     strategy:
       matrix:
         # The repositories to generate reports for.
-        statsRepo: ['Infinity-Vault/Programiranje-I', 'Infinity-Vault/Programiranje-II']
+        statsRepo: ['Infinity-Vault/Programiranje-I', 'Infinity-Vault/Programiranje-II', 'Infinity-Vault/Analiza-i-dizajn-softvera', 'Infinity-Vault/Programiranje-III', 'Infinity-Vault/Baze-podataka-II', 'Infinity-Vault/WRD-Web-razvoj-i-dizajn', 'Infinity-Vault/Baze-podataka-I', 'Infinity-Vault/Primijenjena-statistika', 'Infinity-Vault/Kompjuterska-grafika', 'Infinity-Vault/Digitalna-logika','Infinity-Vault/Strukture-podataka-i-algoritmi']
       # Do not cancel&fail all remaining jobs upon first job failure.
       fail-fast: false
       # Help avoid commit conflicts. Note(JP): this should not be
