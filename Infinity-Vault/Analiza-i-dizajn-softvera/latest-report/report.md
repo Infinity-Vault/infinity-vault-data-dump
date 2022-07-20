@@ -1,5 +1,5 @@
 % Statistics for Infinity-Vault/Analiza-i-dizajn-softvera
-% Generated for [Infinity-Vault/Analiza-i-dizajn-softvera](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-20 00:22 UTC.
+% Generated for [Infinity-Vault/Analiza-i-dizajn-softvera](https://github.com/Infinity-Vault/Analiza-i-dizajn-softvera) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-07-20 23:21 UTC.
 
 
 ## Views
@@ -82,7 +82,7 @@ Top 15 referrers: 01: `github.com`, 02: `m.facebook.com`, 03: `l.facebook.com`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `Infinity-Vault/Analiza-i-dizajn-softvera`, 02: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.6.2022`, 03: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni`, 04: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.07.2021`, 05: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.07.2021/Postavka`, 06: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.6.2022/Postavka`, 07: `Infinity-Vault/Analiza-i-dizajn-softvera/blob/main/Ispitni/Ispitni%2022.07.2021/Ispitni%2022.07.2021..vpp`, 08: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%20(Nepoznat%20Rok%20vjv%20iz%202021)`, 09: `AmigosLP/Analiza-i-dizajn-softvera/pull/new/main`, 10: `Infinity-Vault/Analiza-i-dizajn-softvera/compare/main...AmigosLP:Analiza-i-dizajn-softvera:main`
+Top 15 paths: 01: `Infinity-Vault/Analiza-i-dizajn-softvera`, 02: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.6.2022`, 03: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni`, 04: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.07.2021`, 05: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.07.2021/Postavka`, 06: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%2022.6.2022/Postavka`, 07: `Infinity-Vault/Analiza-i-dizajn-softvera/blob/main/Ispitni/Ispitni%2022.07.2021/Ispitni%2022.07.2021..vpp`, 08: `Infinity-Vault/Analiza-i-dizajn-softvera/tree/main/Ispitni/Ispitni%20(Nepoznat%20Rok%20vjv%20iz%202021)`, 09: `Infinity-Vault/Analiza-i-dizajn-softvera/compare/main...AmigosLP:Analiza-i-dizajn-softvera:main`, 10: `AmigosLP/Analiza-i-dizajn-softvera/pull/new/main`
 
 
 <script type="text/javascript">
