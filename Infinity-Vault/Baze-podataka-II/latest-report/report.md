@@ -1,5 +1,5 @@
 % Statistics for Infinity-Vault/Baze-podataka-II
-% Generated for [Infinity-Vault/Baze-podataka-II](https://github.com/Infinity-Vault/Baze-podataka-II) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-11-19 23:22 UTC.
+% Generated for [Infinity-Vault/Baze-podataka-II](https://github.com/Infinity-Vault/Baze-podataka-II) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2022-11-20 23:23 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `github.com`, 02: `Bing`, 03: `Google`
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/tree/main/Ispiti`, 03: `/tree/main/Vjezbe/Vjezbe_8`, 04: `/tree/main/Ispiti/2022-06-22`, 05: `/tree/main/Vjezbe`, 06: `/blob/main/Ispiti/2022-06-22/Postavka.pdf`, 07: `/blob/main/Vjezbe/Vjezbe_9/Vjezbe_9.sql`, 08: `/tree/main/Ispiti/2021-09-10`, 09: `/tree/main/Materijali`, 10: `/tree/main/Vjezbe/Vjezbe_9`, 11: `/tree/main/Vjezbe/Vjezbe_13`, 12: `/graphs/code-frequency`, 13: `/blob/main/Materijali/instpubs.sql`, 14: `/blob/main/Materijali/BP2_InstaliranjeSQLServera_2019.pptx`, 15: `/graphs/commit-activity`
+Top 15 paths: 01: `/`, 02: `/tree/main/Ispiti`, 03: `/tree/main/Vjezbe/Vjezbe_8`, 04: `/tree/main/Ispiti/2022-06-22`, 05: `/tree/main/Vjezbe`, 06: `/blob/main/Ispiti/2022-06-22/Postavka.pdf`, 07: `/blob/main/Vjezbe/Vjezbe_9/Vjezbe_9.sql`, 08: `/tree/main/Materijali`, 09: `/tree/main/Vjezbe/Vjezbe_13`, 10: `/tree/main/Vjezbe/Vjezbe_9`, 11: `/tree/main/Ispiti/2021-09-10`, 12: `/blob/main/Vjezbe/Vjezbe_4/Vjezbe_4.sql`, 13: `/tree/main/Vjezbe/Vjezbe_10`, 14: `/network/dependencies`, 15: `/graphs/commit-activity`
 
 
 <script type="text/javascript">
